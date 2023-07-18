@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ahmed-Jedidi/Ahmed-Jedidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm JEDIDI Ahmed</h1>
-<h3 align="center">Full stack developer (Mobile, Web)</h3>
+<h3 align="center">Hi 👋, I'm JEDIDI Ahmed ✨</h3>
+<h2 align="center">Full Stack Web Developer | Mobile Developer 💻</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Jedidi&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Jedidi" /> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Jedidi&theme=dark&layout=compact)](https://github.com/Ahmed-Jedidi/github-readme-stats)
+
+
+
+
 
 - 🌱 I’m currently learning **mobile development**
 
 - 💬 Ask me about **Flutter, NodeJs, ExpressJs, Angular, Spring Boot**
 
 - 📫 How to reach me **ahmedjedidi16@gmail.com**
+
+
