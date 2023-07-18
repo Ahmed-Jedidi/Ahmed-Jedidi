@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm JEDIDI Ahmed</h1>
+<h3 align="center">Full stack developer (Mobile, Web)</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Jedidi&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Jedidi" /> </p>
+
+- 🌱 I’m currently learning **mobile development**
+
+- 💬 Ask me about **Flutter, NodeJs, ExpressJs, Angular, Spring Boot**
+
+- 📫 How to reach me **ahmedjedidi16@gmail.com**
