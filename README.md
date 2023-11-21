@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Jedidi&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Jedidi" /> </p>
 
-**Website : https://jedidi.me**
+**Website : https://Ahmed-Jedidi.github.io**
 
 🎓 <b> Graduated from the higher Institute of Technological Studies of Nabeul
 
