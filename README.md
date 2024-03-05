@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">Hi 👋, I'm JEDIDI Ahmed ✨</h3>
-<h2 align="center">I'm a Student and a Freelancer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> </h2>
+<h2 align="center">I'm a Software Engineering Student and a Freelancer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> </h2>
 <h1 align="center">Full Stack Web Developer | Mobile Developer 💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Jedidi&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Jedidi" /> </p>
