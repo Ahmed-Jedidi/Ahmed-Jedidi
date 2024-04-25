@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Jedidi&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Jedidi" /> </p>
 
-**Website : https://Ahmed-Jedidi.github.io**
+<!-- **Website : https://Ahmed-Jedidi.github.io** -->
 
 🎓 <b> Graduated from the higher Institute of Technological Studies of Nabeul
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Flutter, NodeJs, ExpressJs, Angular, Spring Boot**
 
-- 📫 How to reach me: **ahmedjedidi16@gmail.com**
+<!-- - 📫 How to reach me: **ahmedjedidi16@gmail.com** -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Jedidi&theme=dark&layout=compact)](https://github.com/Ahmed-Jedidi/github-readme-stats)-->
 
