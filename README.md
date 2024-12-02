@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🎓 <b> Graduated from the higher Institute of Technological Studies of Nabeul
 
-- 🌱 Currently learning: **Mobile Dev** & **Machine Learning**
+- 🌱 Currently learning: **Mobile Dev** , **Machine Learning** & **Augmented Reality**
 
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: AI, Web Dev & Cyber Security
 
